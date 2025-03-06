@@ -1,7 +1,3 @@
-Here’s a **clean, detailed, beginner-friendly `README.md`** template for your **Linear Regression practice using scikit-learn** project. I kept it simple, well-formatted, and explanatory, perfect for GitHub:
-
----
-
 # 📊 Linear Regression Practice with Scikit-Learn (Python)
 
 Welcome to my **Linear Regression practice project**!  
